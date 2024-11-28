@@ -1,6 +1,6 @@
-title: Michael Potter
-description: Linux & UNIX Administrator
-site_title: 'Michael Potter'
+title: Michael D. Potter
+description:
+site_title: 'Michael D. Potter'
 
 # Build settings
 markdown: kramdown
@@ -20,4 +20,4 @@ profile_picture: assets/images/pp.jpg
 # Google Analytics ID
 google_analytics: 
 
-source: website
+source:
